@@ -1,6 +1,6 @@
 # mnist_recognizer
 
-Handwrited digits recognizer for mnist dataset http://yann.lecun.com/exdb/mnist/
+Handwritten digits recognizer for MNIST dataset http://yann.lecun.com/exdb/mnist/
 
 Python 3.5.2 x64
 
