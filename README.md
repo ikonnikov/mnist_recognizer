@@ -1,5 +1,4 @@
 # mnist_recognizer
-mnist recognizer
 
 Handwrited digits recognizer for mnist dataset.
 
